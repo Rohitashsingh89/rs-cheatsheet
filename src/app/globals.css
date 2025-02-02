@@ -1,0 +1,85 @@
+@import url("/fonts/fonts.css");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-scrollbar {
+  overflow-y: auto; /* Enable vertical scrolling */
+  scrollbar-width: none; /* Hide scrollbar for Firefox */
+}
+
+/* Hide scrollbar for WebKit browsers (Chrome, Safari) */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px; /* Set the width of the scrollbar */
+  opacity: 0; /* Initially hide the scrollbar */
+  transition: opacity 0.3s ease; /* Smooth transition */
+}
+
+/* Show scrollbar on hover or focus */
+.custom-scrollbar:hover::-webkit-scrollbar,
+.custom-scrollbar:focus::-webkit-scrollbar {
+  opacity: 1; /* Show the scrollbar */
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #888; /* Color of the scrollbar */
+  border-radius: 10px; /* Optional: round the corners of the thumb */
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background-color: #555; /* Darker color on hover */
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent; /* Background of the scrollbar track */
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-primary outline-theme-purple inline-block rounded-full px-6 py-2 font-semibold shadow-sm;
+  }
+  .text-primary {
+    @apply bg-gradient-to-r from-[color:var(--theme-purple)] to-[color:var(--theme-blue)] bg-clip-text text-transparent !important;
+  }
+  .bg-primary {
+    @apply bg-gradient-to-r from-[color:var(--theme-purple)] to-[color:var(--theme-blue)] text-white;
+  }
+  .outline-theme-purple {
+    @apply hover:opacity-80 hover:outline-[color:var(--theme-purple)] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[color:var(--theme-purple)];
+  }
+  .outline-theme-blue {
+    @apply hover:opacity-80 hover:outline-[color:var(--theme-blue)] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[color:var(--theme-blue)];
+  }
+  .within-outline-theme-purple {
+    @apply focus-within:outline focus-within:outline-2 focus-within:outline-offset-2 focus-within:outline-[color:var(--theme-purple)] hover:opacity-80 hover:outline-[color:var(--theme-purple)];
+  }
+}
+
+/* Default Light Theme Styles */
+/* .custom-quill .ql-editor {
+  background-color: white;
+  color: black;
+} */
+
+/* Dark Theme Styles */
+.custom-quill-dark .ql-editor {
+  background-color: #1f2937; /* Tailwind's neutral-900 */
+  color: white;
+}
+
+.custom-quill-dark .ql-toolbar {
+  background-color: #111827; /* Tailwind's neutral-800 */
+  color: white;
+  border-color: #374151; /* Tailwind's neutral-700 */
+}
+
+/* Optional: Adjust the border for better visuals */
+.custom-quill-dark .ql-container {
+  border-color: #374151; /* Tailwind's neutral-700 */
+}
+
+.ql-syntax {
+  background-color: #2d2d2d;
+  color: #9aab73;
+  padding: 10px;
+}

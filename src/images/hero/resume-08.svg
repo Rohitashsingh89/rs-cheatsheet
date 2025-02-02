@@ -1,0 +1,326 @@
+<svg width="595.28px" height="841.89px" viewBox="0 0 595.28 841.89" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="100%" height="100%" fill="white"/>
+<path d="M 0,0 L 200,0 C 200,0,200,0,200,0 L 200,841.89 C 200,841.89,200,841.89,200,841.89 L 0,841.89 C 0,841.89,0,841.89,0,841.89 L 0,0 C 0,0,0,0,0,0 Z" fill="#EEF1F2" />
+<path d="M 0,0 L 200,0 C 200,0,200,0,200,0 L 200,55.625 C 200,55.625,200,55.625,200,55.625 L 0,55.625 C 0,55.625,0,55.625,0,55.625 L 0,0 C 0,0,0,0,0,0 Z" fill="#165270" />
+<text x="46.661376953125" y="45.1875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="15px" font-style="normal" font-weight="bold" fill="white">Rodrigo </text>
+<text x="108.316650390625" y="45.1875" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="15px" font-style="normal" font-weight="bold" fill="white">Castel</text>
+<path d="M 0,53.625 L 200,53.625 C 200,53.625,200,53.625,200,53.625 L 200,68.625 C 200,68.625,200,68.625,200,68.625 C 140,96.625,60,96.625,0,68.625 C 0,68.625,0,68.625,0,68.625 L 0,53.625 C 0,53.625,0,53.625,0,53.625 Z" fill="#165270" />
+<text x="15" y="122.86" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="18px" font-style="normal" font-weight="normal" fill="#165270">Informa&#231;&#245;es </text>
+<text x="15" y="145.63" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="18px" font-style="normal" font-weight="normal" fill="#165270">pessoais</text>
+<path d="M 15,155.16500000000002 L 185,155.16500000000002 C 185,155.16500000000002,185,155.16500000000002,185,155.16500000000002 L 185,155.66500000000002 C 185,155.66500000000002,185,155.66500000000002,185,155.66500000000002 L 15,155.66500000000002 C 15,155.66500000000002,15,155.66500000000002,15,155.66500000000002 L 15,155.16500000000002 C 15,155.16500000000002,15,155.16500000000002,15,155.16500000000002 Z" fill="#c8c8c8" />
+<image x="15.9375" y="165.66500000000002" width="13.125" height="15" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMxNjUyNzAiIHZpZXdCb3g9IjAgMCA0NDggNTEyIiB3aWR0aD0iNDQ4IiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTIyNCAyNTZjNzAuNyAwIDEyOC01Ny4zIDEyOC0xMjhTMjk0LjcgMCAyMjQgMCA5NiA1Ny4zIDk2IDEyOHM1Ny4zIDEyOCAxMjggMTI4em04OS42IDMyaC0xNi43Yy0yMi4yIDEwLjItNDYuOSAxNi03Mi45IDE2cy01MC42LTUuOC03Mi45LTE2aC0xNi43QzYwLjIgMjg4IDAgMzQ4LjIgMCA0MjIuNFY0NjRjMCAyNi41IDIxLjUgNDggNDggNDhoMzUyYzI2LjUgMCA0OC0yMS41IDQ4LTQ4di00MS42YzAtNzQuMi02MC4yLTEzNC40LTEzNC40LTEzNC40eiI+PC9wYXRoPjwvc3ZnPg==" image-rendering="optimizeSpeed" />
+<text x="39" y="175.24" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Rodrigo </text>
+<text x="76.7978515625" y="175.24" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Castel</text>
+<image x="15" y="195.66500000000002" width="15" height="15" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMxNjUyNzAiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTUwMi4zIDE5MC44YzMuOS0zLjEgOS43LS4yIDkuNyA0LjdWNDAwYzAgMjYuNS0yMS41IDQ4LTQ4IDQ4SDQ4Yy0yNi41IDAtNDgtMjEuNS00OC00OFYxOTUuNmMwLTUgNS43LTcuOCA5LjctNC43IDIyLjQgMTcuNCA1Mi4xIDM5LjUgMTU0LjEgMTEzLjYgMjEuMSAxNS40IDU2LjcgNDcuOCA5Mi4yIDQ3LjYgMzUuNy4zIDcyLTMyLjggOTIuMy00Ny42IDEwMi03NC4xIDEzMS42LTk2LjMgMTU0LTExMy43ek0yNTYgMzIwYzIzLjIuNCA1Ni42LTI5LjIgNzMuNC00MS40IDEzMi43LTk2LjMgMTQyLjgtMTA0LjcgMTczLjQtMTI4LjcgNS44LTQuNSA5LjItMTEuNSA5LjItMTguOXYtMTljMC0yNi41LTIxLjUtNDgtNDgtNDhINDhDMjEuNSA2NCAwIDg1LjUgMCAxMTJ2MTljMCA3LjQgMy40IDE0LjMgOS4yIDE4LjkgMzAuNiAyMy45IDQwLjcgMzIuNCAxNzMuNCAxMjguNyAxNi44IDEyLjIgNTAuMiA0MS44IDczLjQgNDEuNHoiPjwvcGF0aD48L3N2Zz4=" image-rendering="optimizeSpeed" />
+<text x="39" y="205.24" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">rodrigo</text>
+<text x="70.1279296875" y="205.24" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">.</text>
+<text x="72.90625" y="205.24" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">caster</text>
+<text x="100.1376953125" y="205.24" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">@</text>
+<text x="110.2890625" y="205.24" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">mail</text>
+<text x="128.6240234375" y="205.24" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">.</text>
+<text x="131.40234375" y="205.24" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">com</text>
+<image x="15" y="225.66500000000002" width="15" height="15" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMxNjUyNzAiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTQ5My40IDI0LjZsLTEwNC0yNGMtMTEuMy0yLjYtMjIuOSAzLjMtMjcuNSAxMy45bC00OCAxMTJjLTQuMiA5LjgtMS40IDIxLjMgNi45IDI4bDYwLjYgNDkuNmMtMzYgNzYuNy05OC45IDE0MC41LTE3Ny4yIDE3Ny4ybC00OS42LTYwLjZjLTYuOC04LjMtMTguMi0xMS4xLTI4LTYuOWwtMTEyIDQ4QzMuOSAzNjYuNS0yIDM3OC4xLjYgMzg5LjRsMjQgMTA0QzI3LjEgNTA0LjIgMzYuNyA1MTIgNDggNTEyYzI1Ni4xIDAgNDY0LTIwNy41IDQ2NC00NjQgMC0xMS4yLTcuNy0yMC45LTE4LjYtMjMuNHoiPjwvcGF0aD48L3N2Zz4=" image-rendering="optimizeSpeed" />
+<text x="39" y="235.24" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">+</text>
+<text x="44.83984375" y="235.24" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">351 </text>
+<text x="64.302734375" y="235.24" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">942 </text>
+<text x="83.765625" y="235.24" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">451 </text>
+<text x="103.228515625" y="235.24" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">897</text>
+<image x="14.0625" y="255.66500000000002" width="16.875" height="15" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMxNjUyNzAiIHZpZXdCb3g9IjAgMCA1NzYgNTEyIiB3aWR0aD0iNTc2IiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTI4MC4zNyAxNDguMjZMOTYgMzAwLjExVjQ2NGExNiAxNiAwIDAgMCAxNiAxNmwxMTIuMDYtLjI5YTE2IDE2IDAgMCAwIDE1LjkyLTE2VjM2OGExNiAxNiAwIDAgMSAxNi0xNmg2NGExNiAxNiAwIDAgMSAxNiAxNnY5NS42NGExNiAxNiAwIDAgMCAxNiAxNi4wNUw0NjQgNDgwYTE2IDE2IDAgMCAwIDE2LTE2VjMwMEwyOTUuNjcgMTQ4LjI2YTEyLjE5IDEyLjE5IDAgMCAwLTE1LjMgMHpNNTcxLjYgMjUxLjQ3TDQ4OCAxODIuNTZWNDQuMDVhMTIgMTIgMCAwIDAtMTItMTJoLTU2YTEyIDEyIDAgMCAwLTEyIDEydjcyLjYxTDMxOC40NyA0M2E0OCA0OCAwIDAgMC02MSAwTDQuMzQgMjUxLjQ3YTEyIDEyIDAgMCAwLTEuNiAxNi45bDI1LjUgMzFBMTIgMTIgMCAwIDAgNDUuMTUgMzAxbDIzNS4yMi0xOTMuNzRhMTIuMTkgMTIuMTkgMCAwIDEgMTUuMyAwTDUzMC45IDMwMWExMiAxMiAwIDAgMCAxNi45LTEuNmwyNS41LTMxYTEyIDEyIDAgMCAwLTEuNy0xNi45M3oiPjwvcGF0aD48L3N2Zz4=" image-rendering="optimizeSpeed" />
+<text x="39" y="265.24" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Rua </text>
+<text x="60.123046875" y="265.24" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">das </text>
+<text x="79.0244140625" y="265.24" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Pe&#243;nias</text>
+<text x="115.162109375" y="265.24" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">, </text>
+<text x="120.71875" y="265.24" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">145</text>
+<text x="39" y="277.89" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">3700</text>
+<text x="61.24609375" y="277.89" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">-</text>
+<text x="64.576171875" y="277.89" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">110 </text>
+<text x="84.0390625" y="277.89" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Lisbon</text>
+<image x="15.9375" y="295.965" width="13.125" height="15" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMxNjUyNzAiIHZpZXdCb3g9IjAgMCA0NDggNTEyIiB3aWR0aD0iNDQ4IiBoZWlnaHQ9IjUxMiI+PHBhdGggZD0iTTQxNiAzMkgzMS45QzE0LjMgMzIgMCA0Ni41IDAgNjQuM3YzODMuNEMwIDQ2NS41IDE0LjMgNDgwIDMxLjkgNDgwSDQxNmMxNy42IDAgMzItMTQuNSAzMi0zMi4zVjY0LjNjMC0xNy44LTE0LjQtMzIuMy0zMi0zMi4zek0xMzUuNCA0MTZINjlWMjAyLjJoNjYuNVY0MTZ6bS0zMy4yLTI0M2MtMjEuMyAwLTM4LjUtMTcuMy0zOC41LTM4LjVTODAuOSA5NiAxMDIuMiA5NmMyMS4yIDAgMzguNSAxNy4zIDM4LjUgMzguNSAwIDIxLjMtMTcuMiAzOC41LTM4LjUgMzguNXptMjgyLjEgMjQzaC02Ni40VjMxMmMwLTI0LjgtLjUtNTYuNy0zNC41LTU2LjctMzQuNiAwLTM5LjkgMjctMzkuOSA1NC45VjQxNmgtNjYuNFYyMDIuMmg2My43djI5LjJoLjljOC45LTE2LjggMzAuNi0zNC41IDYyLjktMzQuNSA2Ny4yIDAgNzkuNyA0NC4zIDc5LjcgMTAxLjlWNDE2eiI+PC9wYXRoPjwvc3ZnPg==" image-rendering="optimizeSpeed" />
+<text x="39" y="305.53999999999996" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">linkedin</text>
+<text x="72.9111328125" y="305.53999999999996" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">.</text>
+<text x="75.689453125" y="305.53999999999996" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">com/in/rodrigocastel</text>
+<text x="15" y="353.2" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="18px" font-style="normal" font-weight="normal" fill="#165270">Hard </text>
+<text x="59.015625" y="353.2" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="18px" font-style="normal" font-weight="normal" fill="#165270">skills</text>
+<path d="M 15,362.73499999999996 L 185,362.73499999999996 C 185,362.73499999999996,185,362.73499999999996,185,362.73499999999996 L 185,363.23499999999996 C 185,363.23499999999996,185,363.23499999999996,185,363.23499999999996 L 15,363.23499999999996 C 15,363.23499999999996,15,363.23499999999996,15,363.23499999999996 L 15,362.73499999999996 C 15,362.73499999999996,15,362.73499999999996,15,362.73499999999996 Z" fill="#c8c8c8" />
+<text x="15" y="382.80999999999995" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Project </text>
+<text x="48.9013671875" y="382.80999999999995" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Management </text>
+<text x="110.048828125" y="382.80999999999995" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Software</text>
+<text x="15" y="405.4599999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Microsoft </text>
+<text x="58.33984375" y="405.4599999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Office</text>
+<text x="15" y="428.1099999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Google </text>
+<text x="50.0244140625" y="428.1099999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Workspace</text>
+<text x="15" y="450.7599999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Slack</text>
+<text x="15" y="473.40999999999985" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Cloud </text>
+<text x="43.90625" y="473.40999999999985" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Computing</text>
+<text x="15" y="496.05999999999983" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Database </text>
+<text x="60.5859375" y="496.05999999999983" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Management</text>
+<text x="15" y="536.3699999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="18px" font-style="normal" font-weight="normal" fill="#165270">Soft </text>
+<text x="52.01953125" y="536.3699999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="18px" font-style="normal" font-weight="normal" fill="#165270">skills</text>
+<path d="M 15,545.9049999999997 L 185,545.9049999999997 C 185,545.9049999999997,185,545.9049999999997,185,545.9049999999997 L 185,546.4049999999997 C 185,546.4049999999997,185,546.4049999999997,185,546.4049999999997 L 15,546.4049999999997 C 15,546.4049999999997,15,546.4049999999997,15,546.4049999999997 L 15,545.9049999999997 C 15,545.9049999999997,15,545.9049999999997,15,545.9049999999997 Z" fill="#c8c8c8" />
+<path d="M 15,558.9799999999998 L 22.5,558.9799999999998 C 22.5,558.9799999999998,22.5,558.9799999999998,22.5,558.9799999999998 L 22.5,566.4799999999998 C 22.5,566.4799999999998,22.5,566.4799999999998,22.5,566.4799999999998 L 15,566.4799999999998 C 15,566.4799999999998,15,566.4799999999998,15,566.4799999999998 L 15,558.9799999999998 C 15,558.9799999999998,15,558.9799999999998,15,558.9799999999998 Z" fill="#165270" />
+<text x="27.5" y="565.9799999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Leadership</text>
+<path d="M 15,581.6299999999998 L 22.5,581.6299999999998 C 22.5,581.6299999999998,22.5,581.6299999999998,22.5,581.6299999999998 L 22.5,589.1299999999998 C 22.5,589.1299999999998,22.5,589.1299999999998,22.5,589.1299999999998 L 15,589.1299999999998 C 15,589.1299999999998,15,589.1299999999998,15,589.1299999999998 L 15,581.6299999999998 C 15,581.6299999999998,15,581.6299999999998,15,581.6299999999998 Z" fill="#165270" />
+<text x="27.5" y="588.6299999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Organization</text>
+<path d="M 15,604.2799999999997 L 22.5,604.2799999999997 C 22.5,604.2799999999997,22.5,604.2799999999997,22.5,604.2799999999997 L 22.5,611.7799999999997 C 22.5,611.7799999999997,22.5,611.7799999999997,22.5,611.7799999999997 L 15,611.7799999999997 C 15,611.7799999999997,15,611.7799999999997,15,611.7799999999997 L 15,604.2799999999997 C 15,604.2799999999997,15,604.2799999999997,15,604.2799999999997 Z" fill="#165270" />
+<text x="27.5" y="611.2799999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Problem </text>
+<text x="67.5146484375" y="611.2799999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Solving</text>
+<path d="M 15,626.9299999999997 L 22.5,626.9299999999997 C 22.5,626.9299999999997,22.5,626.9299999999997,22.5,626.9299999999997 L 22.5,634.4299999999997 C 22.5,634.4299999999997,22.5,634.4299999999997,22.5,634.4299999999997 L 15,634.4299999999997 C 15,634.4299999999997,15,634.4299999999997,15,634.4299999999997 L 15,626.9299999999997 C 15,626.9299999999997,15,626.9299999999997,15,626.9299999999997 Z" fill="#165270" />
+<text x="27.5" y="633.9299999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Planning</text>
+<path d="M 15,649.5799999999997 L 22.5,649.5799999999997 C 22.5,649.5799999999997,22.5,649.5799999999997,22.5,649.5799999999997 L 22.5,657.0799999999997 C 22.5,657.0799999999997,22.5,657.0799999999997,22.5,657.0799999999997 L 15,657.0799999999997 C 15,657.0799999999997,15,657.0799999999997,15,657.0799999999997 L 15,649.5799999999997 C 15,649.5799999999997,15,649.5799999999997,15,649.5799999999997 Z" fill="#165270" />
+<text x="27.5" y="656.5799999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Management</text>
+<path d="M 15,672.2299999999997 L 22.5,672.2299999999997 C 22.5,672.2299999999997,22.5,672.2299999999997,22.5,672.2299999999997 L 22.5,679.7299999999997 C 22.5,679.7299999999997,22.5,679.7299999999997,22.5,679.7299999999997 L 15,679.7299999999997 C 15,679.7299999999997,15,679.7299999999997,15,679.7299999999997 L 15,672.2299999999997 C 15,672.2299999999997,15,672.2299999999997,15,672.2299999999997 Z" fill="#165270" />
+<text x="27.5" y="679.2299999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Delegation</text>
+<text x="215" y="47.235" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="18px" font-style="normal" font-weight="normal" fill="#165270">Profile</text>
+<path d="M 215,56.769999999999996 L 580.28,56.769999999999996 C 580.28,56.769999999999996,580.28,56.769999999999996,580.28,56.769999999999996 L 580.28,57.269999999999996 C 580.28,57.269999999999996,580.28,57.269999999999996,580.28,57.269999999999996 L 215,57.269999999999996 C 215,57.269999999999996,215,57.269999999999996,215,57.269999999999996 L 215,56.769999999999996 C 215,56.769999999999996,215,56.769999999999996,215,56.769999999999996 Z" fill="#c8c8c8" />
+<text x="215" y="81.845" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Organized </text>
+<text x="263.916015625" y="81.845" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">and </text>
+<text x="283.37890625" y="81.845" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">efficient </text>
+<text x="320.6201171875" y="81.845" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">project </text>
+<text x="353.4130859375" y="81.845" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">manager </text>
+<text x="395.6591796875" y="81.845" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">with </text>
+<text x="416.220703125" y="81.845" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">11</text>
+<text x="427.34375" y="81.845" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">+ </text>
+<text x="435.9619140625" y="81.845" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">years </text>
+<text x="463.193359375" y="81.845" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">of </text>
+<text x="474.3115234375" y="81.845" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">experience </text>
+<text x="526.0107421875" y="81.845" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">managing </text>
+<text x="215" y="94.49499999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">large</text>
+<text x="237.236328125" y="94.49499999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">-</text>
+<text x="240.56640625" y="94.49499999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">scale </text>
+<text x="266.689453125" y="94.49499999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">cloud </text>
+<text x="293.3740234375" y="94.49499999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">computing </text>
+<text x="342.2900390625" y="94.49499999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">and </text>
+<text x="361.7529296875" y="94.49499999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">ITrelated </text>
+<text x="403.994140625" y="94.49499999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">projects</text>
+<text x="439.0087890625" y="94.49499999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">. </text>
+<text x="444.5654296875" y="94.49499999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Seeking </text>
+<text x="483.4814453125" y="94.49499999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">to </text>
+<text x="494.599609375" y="94.49499999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">leverage </text>
+<text x="215" y="107.145" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">leadership </text>
+<text x="263.9208984375" y="107.145" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">experience </text>
+<text x="315.6201171875" y="107.145" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">and </text>
+<text x="335.0830078125" y="107.145" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">in</text>
+<text x="342.8662109375" y="107.145" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">-</text>
+<text x="346.1962890625" y="107.145" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">depth </text>
+<text x="373.9990234375" y="107.145" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">cloud </text>
+<text x="400.68359375" y="107.145" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">computing </text>
+<text x="449.599609375" y="107.145" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">knowledge </text>
+<text x="500.1904296875" y="107.145" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">to </text>
+<text x="511.30859375" y="107.145" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">join </text>
+<text x="529.6533203125" y="107.145" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Amazon </text>
+<text x="569.1162109375" y="107.145" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">as </text>
+<text x="215" y="119.795" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">an </text>
+<text x="228.9013671875" y="119.795" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">IT </text>
+<text x="240.56640625" y="119.795" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Project </text>
+<text x="274.4677734375" y="119.795" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Manager</text>
+<text x="313.935546875" y="119.795" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">.</text>
+<text x="215" y="155.10500000000002" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="18px" font-style="normal" font-weight="normal" fill="#165270">Employment</text>
+<path d="M 215,164.64000000000001 L 580.28,164.64000000000001 C 580.28,164.64000000000001,580.28,164.64000000000001,580.28,164.64000000000001 L 580.28,165.14000000000001 C 580.28,165.14000000000001,580.28,165.14000000000001,580.28,165.14000000000001 L 215,165.14000000000001 C 215,165.14000000000001,215,165.14000000000001,215,165.14000000000001 L 215,164.64000000000001 C 215,164.64000000000001,215,164.64000000000001,215,164.64000000000001 Z" fill="#c8c8c8" />
+<text x="215" y="189.715" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="black">Project </text>
+<text x="251.6796875" y="189.715" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="black">Manager</text>
+<text x="492.4626171875" y="189.715" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="#165270">Apr </text>
+<text x="512.4626171875" y="189.715" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="#165270">2017 </text>
+<text x="537.48703125" y="189.715" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="#165270">- </text>
+<text x="543.5954296875" y="189.715" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="#165270">Present</text>
+<text x="215" y="202.365" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="#165270">Pantheon </text>
+<text x="260.595703125" y="202.365" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="#165270">Computing</text>
+<text x="308.955078125" y="202.365" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="#165270">, </text>
+<text x="314.51171875" y="202.365" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="#165270">Lisbon</text>
+<text x="235" y="215.01500000000001" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Managed </text>
+<text x="279.4775390625" y="215.01500000000001" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">cloud </text>
+<text x="306.162109375" y="215.01500000000001" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">computing </text>
+<text x="355.078125" y="215.01500000000001" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">project </text>
+<text x="387.87109375" y="215.01500000000001" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">that </text>
+<text x="407.3291015625" y="215.01500000000001" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">involved </text>
+<text x="446.796875" y="215.01500000000001" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">all </text>
+<text x="459.580078125" y="215.01500000000001" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">60 </text>
+<text x="473.4814453125" y="215.01500000000001" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">employees</text>
+<circle cx="225" cy="213.01500000000001" r="2" fill="black"/>
+<text x="235" y="227.66500000000002" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Managed </text>
+<text x="279.4775390625" y="227.66500000000002" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">training </text>
+<text x="315.0537109375" y="227.66500000000002" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">and </text>
+<text x="334.5166015625" y="227.66500000000002" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">onboarding </text>
+<text x="387.3388671875" y="227.66500000000002" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">of </text>
+<text x="398.45703125" y="227.66500000000002" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">new </text>
+<text x="419.580078125" y="227.66500000000002" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">employees </text>
+<circle cx="225" cy="225.66500000000002" r="2" fill="black"/>
+<text x="235" y="240.31500000000003" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Designed </text>
+<text x="280.029296875" y="240.31500000000003" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">a </text>
+<text x="288.369140625" y="240.31500000000003" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">new </text>
+<text x="309.4921875" y="240.31500000000003" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">onboarding </text>
+<text x="362.314453125" y="240.31500000000003" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">program </text>
+<text x="402.3291015625" y="240.31500000000003" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">that </text>
+<text x="421.787109375" y="240.31500000000003" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">cut </text>
+<text x="437.9052734375" y="240.31500000000003" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">lead </text>
+<text x="459.58984375" y="240.31500000000003" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">time </text>
+<text x="481.259765625" y="240.31500000000003" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">by </text>
+<text x="494.599609375" y="240.31500000000003" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">30% </text>
+<text x="517.392578125" y="240.31500000000003" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">and </text>
+<text x="536.85546875" y="240.31500000000003" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">cut </text>
+<text x="552.9736328125" y="240.31500000000003" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">costs </text>
+<circle cx="225" cy="238.31500000000003" r="2" fill="black"/>
+<text x="235" y="252.96500000000003" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">by </text>
+<text x="248.33984375" y="252.96500000000003" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">40% </text>
+<text x="235" y="265.615" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Led </text>
+<text x="254.462890625" y="265.615" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">15</text>
+<text x="265.5859375" y="265.615" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">+ </text>
+<text x="274.2041015625" y="265.615" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">additional </text>
+<text x="319.794921875" y="265.615" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">smaller </text>
+<text x="354.7998046875" y="265.615" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">projects </text>
+<text x="392.5927734375" y="265.615" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">each </text>
+<text x="417.0556640625" y="265.615" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">year</text>
+<circle cx="225" cy="263.615" r="2" fill="black"/>
+<text x="215" y="288.265" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="black">Project </text>
+<text x="251.6796875" y="288.265" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="black">Manager</text>
+<text x="489.67453125" y="288.265" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="#165270">Jul </text>
+<text x="506.90109375" y="288.265" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="#165270">2011 </text>
+<text x="531.9255078125" y="288.265" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="#165270">- </text>
+<text x="538.03390625" y="288.265" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="#165270">Apr </text>
+<text x="558.03390625" y="288.265" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="#165270">2017</text>
+<text x="215" y="300.91499999999996" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="#165270">Racon </text>
+<text x="246.6845703125" y="300.91499999999996" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="#165270">Solutions</text>
+<text x="287.822265625" y="300.91499999999996" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="#165270">, </text>
+<text x="293.37890625" y="300.91499999999996" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="#165270">Lisbon</text>
+<text x="235" y="313.56499999999994" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Promoted </text>
+<text x="281.1328125" y="313.56499999999994" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">to </text>
+<text x="292.2509765625" y="313.56499999999994" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">project </text>
+<text x="325.0439453125" y="313.56499999999994" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">manager </text>
+<text x="367.2900390625" y="313.56499999999994" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">after </text>
+<text x="390.078125" y="313.56499999999994" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">just </text>
+<text x="408.41796875" y="313.56499999999994" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">over </text>
+<text x="430.6494140625" y="313.56499999999994" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">a </text>
+<text x="438.9892578125" y="313.56499999999994" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">year </text>
+<circle cx="225" cy="311.56499999999994" r="2" fill="black"/>
+<text x="235" y="326.2149999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Managed </text>
+<text x="279.4775390625" y="326.2149999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">and </text>
+<text x="298.9404296875" y="326.2149999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">led </text>
+<text x="315.0634765625" y="326.2149999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">the </text>
+<text x="331.7431640625" y="326.2149999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">company's </text>
+<text x="382.0068359375" y="326.2149999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">cloud </text>
+<text x="408.69140625" y="326.2149999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">computing </text>
+<text x="457.607421875" y="326.2149999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">project </text>
+<circle cx="225" cy="324.2149999999999" r="2" fill="black"/>
+<text x="235" y="338.8649999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Strategized </text>
+<text x="288.3642578125" y="338.8649999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">and </text>
+<text x="307.8271484375" y="338.8649999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">created </text>
+<text x="343.9599609375" y="338.8649999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">goals</text>
+<text x="367.8662109375" y="338.8649999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">, </text>
+<text x="373.4228515625" y="338.8649999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">deadlines</text>
+<text x="416.2353515625" y="338.8649999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">, </text>
+<text x="421.7919921875" y="338.8649999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">schedules</text>
+<text x="466.8212890625" y="338.8649999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">, </text>
+<text x="472.3779296875" y="338.8649999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">budgets</text>
+<text x="507.9638671875" y="338.8649999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">, </text>
+<text x="513.5205078125" y="338.8649999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">and </text>
+<text x="532.9833984375" y="338.8649999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">identified </text>
+<circle cx="225" cy="336.8649999999999" r="2" fill="black"/>
+<text x="235" y="351.5149999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">necessary </text>
+<text x="283.3544921875" y="351.5149999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">resources </text>
+<text x="330.0390625" y="351.5149999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">and </text>
+<text x="349.501953125" y="351.5149999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">team </text>
+<text x="374.51171875" y="351.5149999999999" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">members</text>
+<text x="235" y="364.16499999999985" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Presented </text>
+<text x="283.3642578125" y="364.16499999999985" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">progress</text>
+<text x="322.2705078125" y="364.16499999999985" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">, </text>
+<text x="327.8271484375" y="364.16499999999985" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">issues</text>
+<text x="356.171875" y="364.16499999999985" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">, </text>
+<text x="361.728515625" y="364.16499999999985" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">and </text>
+<text x="381.19140625" y="364.16499999999985" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">final </text>
+<text x="402.314453125" y="364.16499999999985" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">results </text>
+<text x="434.5458984375" y="364.16499999999985" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">to </text>
+<text x="445.6640625" y="364.16499999999985" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">upper </text>
+<text x="474.0185546875" y="364.16499999999985" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">management</text>
+<circle cx="225" cy="362.16499999999985" r="2" fill="black"/>
+<text x="215" y="386.8149999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="black">Administrative </text>
+<text x="287.2412109375" y="386.8149999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="black">Assistant</text>
+<text x="487.4430859375" y="386.8149999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="#165270">May </text>
+<text x="509.67453125" y="386.8149999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="#165270">2010 </text>
+<text x="534.6989453125" y="386.8149999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="#165270">- </text>
+<text x="540.80734375" y="386.8149999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="#165270">Jul </text>
+<text x="558.03390625" y="386.8149999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="#165270">2011</text>
+<text x="215" y="399.4649999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="#165270">Racon </text>
+<text x="246.6845703125" y="399.4649999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="#165270">Solutions</text>
+<text x="287.822265625" y="399.4649999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="#165270">, </text>
+<text x="293.37890625" y="399.4649999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="#165270">Lisbon</text>
+<text x="235" y="412.1149999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Managed </text>
+<text x="279.4775390625" y="412.1149999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">schedules </text>
+<text x="327.28515625" y="412.1149999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">and </text>
+<text x="346.748046875" y="412.1149999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">interdepartmental </text>
+<text x="427.3486328125" y="412.1149999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">communication </text>
+<text x="497.3779296875" y="412.1149999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">for </text>
+<text x="511.826171875" y="412.1149999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">entire </text>
+<text x="539.619140625" y="412.1149999999998" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">IT </text>
+<circle cx="225" cy="410.1149999999998" r="2" fill="black"/>
+<text x="235" y="424.76499999999976" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">department</text>
+<text x="235" y="437.41499999999974" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Handled </text>
+<text x="275.029296875" y="437.41499999999974" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">and </text>
+<text x="294.4921875" y="437.41499999999974" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">directed </text>
+<text x="332.8466796875" y="437.41499999999974" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">all </text>
+<text x="345.6298828125" y="437.41499999999974" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">incoming </text>
+<text x="388.427734375" y="437.41499999999974" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">client </text>
+<text x="414.55078125" y="437.41499999999974" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">telephone </text>
+<text x="461.259765625" y="437.41499999999974" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">calls</text>
+<circle cx="225" cy="435.41499999999974" r="2" fill="black"/>
+<text x="235" y="450.0649999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Actively </text>
+<text x="272.2314453125" y="450.0649999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">maintained </text>
+<text x="323.9306640625" y="450.0649999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">product </text>
+<text x="360.0634765625" y="450.0649999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">knowledge </text>
+<text x="410.654296875" y="450.0649999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">in </text>
+<text x="421.2158203125" y="450.0649999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">order </text>
+<text x="447.3388671875" y="450.0649999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">to </text>
+<text x="458.45703125" y="450.0649999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">answer </text>
+<text x="493.4716796875" y="450.0649999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">basic </text>
+<text x="519.5947265625" y="450.0649999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">support </text>
+<circle cx="225" cy="448.0649999999997" r="2" fill="black"/>
+<text x="235" y="462.7149999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">requests</text>
+<text x="235" y="475.36499999999967" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Maintained </text>
+<text x="286.69921875" y="475.36499999999967" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">IT </text>
+<text x="298.3642578125" y="475.36499999999967" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">department's </text>
+<text x="358.6376953125" y="475.36499999999967" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">digital </text>
+<text x="387.5439453125" y="475.36499999999967" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">filing </text>
+<text x="410.888671875" y="475.36499999999967" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">system</text>
+<circle cx="225" cy="473.36499999999967" r="2" fill="black"/>
+<text x="235" y="488.01499999999965" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Problem</text>
+<text x="272.236328125" y="488.01499999999965" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">-</text>
+<text x="275.56640625" y="488.01499999999965" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">solved </text>
+<text x="307.2509765625" y="488.01499999999965" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">and </text>
+<text x="326.7138671875" y="488.01499999999965" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">handled </text>
+<text x="365.0830078125" y="488.01499999999965" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">many </text>
+<text x="392.314453125" y="488.01499999999965" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">tasks </text>
+<text x="418.4326171875" y="488.01499999999965" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">on </text>
+<text x="432.333984375" y="488.01499999999965" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">multiple </text>
+<text x="469.5703125" y="488.01499999999965" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">projects </text>
+<text x="507.36328125" y="488.01499999999965" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">simultaneously</text>
+<circle cx="225" cy="486.01499999999965" r="2" fill="black"/>
+<text x="215" y="523.3249999999996" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="18px" font-style="normal" font-weight="normal" fill="#165270">Educa&#231;&#227;o</text>
+<path d="M 215,532.8599999999997 L 580.28,532.8599999999997 C 580.28,532.8599999999997,580.28,532.8599999999997,580.28,532.8599999999997 L 580.28,533.3599999999997 C 580.28,533.3599999999997,580.28,533.3599999999997,580.28,533.3599999999997 L 215,533.3599999999997 C 215,533.3599999999997,215,533.3599999999997,215,533.3599999999997 L 215,532.8599999999997 C 215,532.8599999999997,215,532.8599999999997,215,532.8599999999997 Z" fill="#c8c8c8" />
+<text x="215" y="557.9349999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="black">Bachelor </text>
+<text x="260.5712890625" y="557.9349999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="black">of </text>
+<text x="272.7880859375" y="557.9349999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="black">Science </text>
+<text x="313.369140625" y="557.9349999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="black">in </text>
+<text x="325.0341796875" y="557.9349999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="black">Business </text>
+<text x="215" y="570.5849999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="black">Administration</text>
+<text x="526.90109375" y="557.9349999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="#165270">2006 </text>
+<text x="551.9255078125" y="557.9349999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="#165270">- </text>
+<text x="558.03390625" y="557.9349999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="#165270">2010</text>
+<text x="215" y="583.2349999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="#165270">University </text>
+<text x="261.6748046875" y="583.2349999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="#165270">of </text>
+<text x="272.79296875" y="583.2349999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="#165270">Lisbon</text>
+<text x="302.2607421875" y="583.2349999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="#165270">, </text>
+<text x="307.8173828125" y="583.2349999999997" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="#165270">Lisbon</text>
+<text x="215" y="618.5449999999996" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="18px" font-style="normal" font-weight="normal" fill="#165270">Certificates</text>
+<path d="M 215,628.0799999999996 L 580.28,628.0799999999996 C 580.28,628.0799999999996,580.28,628.0799999999996,580.28,628.0799999999996 L 580.28,628.5799999999996 C 580.28,628.5799999999996,580.28,628.5799999999996,580.28,628.5799999999996 L 215,628.5799999999996 C 215,628.5799999999996,215,628.5799999999996,215,628.5799999999996 L 215,628.0799999999996 C 215,628.0799999999996,215,628.0799999999996,215,628.0799999999996 Z" fill="#c8c8c8" />
+<text x="215" y="653.1549999999996" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="black">Certified </text>
+<text x="258.33984375" y="653.1549999999996" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="black">Project </text>
+<text x="295.01953125" y="653.1549999999996" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="black">Manager</text>
+<text x="543.5954296875" y="653.1549999999996" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="bold" fill="#165270">Present</text>
+<text x="215" y="665.8049999999996" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Awarded </text>
+<text x="257.24609375" y="665.8049999999996" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">by </text>
+<text x="270.5859375" y="665.8049999999996" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">the </text>
+<text x="287.265625" y="665.8049999999996" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Project </text>
+<text x="321.1669921875" y="665.8049999999996" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Management </text>
+<text x="382.314453125" y="665.8049999999996" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" font-style="normal" font-weight="normal" fill="black">Institute</text>
+<path d="M 0,801.89 C 60,829.89,140,829.89,200,801.89 C 200,801.89,200,801.89,200,801.89 L 200,841.89 C 200,841.89,200,841.89,200,841.89 L 0,841.89 C 0,841.89,0,841.89,0,841.89 L 0,801.89 C 0,801.89,0,801.89,0,801.89 Z" fill="#165270" />
+<text x="271.17271484375" y="829.89" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black" fill-opacity="0.25">©</text>
+<a href="https://www.cvwizard.com" target="_blank"><text x="281.31919921875" y="829.89" font-family="LiberationSans,Helvetica,Arial,sans-serif" font-size="10px" fill="black" fill-opacity="0.25">CVwizard</text></a>
+</svg>
