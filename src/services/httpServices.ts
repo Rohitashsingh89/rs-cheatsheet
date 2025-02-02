@@ -1,3 +1,5 @@
+"use client";
+
 import Swal from "sweetalert2";
 import moment from "moment";
 import * as XLSX from "xlsx";

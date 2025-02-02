@@ -1,3 +1,5 @@
+"use client";
+
 export default function isInViewport(element: HTMLElement) {
   const rect = element.getBoundingClientRect();
   return (

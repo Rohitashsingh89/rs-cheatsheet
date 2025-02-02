@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: false,
   experimental: {
-    appDir: true,
+    // appDir: true,
     typedRoutes: true,
     instrumentationHook: true,
   },
@@ -40,7 +40,7 @@ const nextConfig = {
       },
     ],
   },
-  webpack(config, { isServer }) {
+  webpack(config) {
     // Enable the top-level-await experiment
     config.experiments = {
       ...config.experiments,
@@ -48,16 +48,21 @@ const nextConfig = {
     };
 
     // Add a rule to handle .node files using file-loader
+    // config.module.rules.push({
+    //   test: /\.node$/,
+    //   use: "file-loader",
+    // });
+
     config.module.rules.push({
       test: /\.node$/,
-      use: "file-loader",
+      type: "asset/resource",
     });
 
     // Remove invalid node properties
-    config.node = {
-      __dirname: true,
-      __filename: true,
-    };
+    // config.node = {
+    //   __dirname: true,
+    //   __filename: true,
+    // };
 
     return config;
   },

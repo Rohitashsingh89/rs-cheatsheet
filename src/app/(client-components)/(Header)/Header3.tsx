@@ -6,11 +6,11 @@ import useOutsideAlerter from "@/hooks/useOutsideAlerter";
 import NotifyDropdown from "./NotifyDropdown";
 import AvatarDropdown from "./AvatarDropdown";
 import MenuBar from "@/shared/MenuBar";
-import { SearchTab } from "../(HeroSearchForm)/HeroSearchForm";
+// import { SearchTab } from "../(HeroSearchForm)/HeroSearchForm";
 import HeroSearchForm2MobileFactory from "../(HeroSearchForm2Mobile)/HeroSearchForm2MobileFactory";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import HeroSearchFormSmall from "../(HeroSearchFormSmall)/HeroSearchFormSmall";
+// import HeroSearchFormSmall from "../(HeroSearchFormSmall)/HeroSearchFormSmall";
 import { StaySearchFormFields } from "../type";
 import { MagnifyingGlassIcon } from "@heroicons/react/24/outline";
 
@@ -29,12 +29,12 @@ const Header3: FC<Header3Props> = ({ className = "" }) => {
   const [showHeroSearch, setShowHeroSearch] =
     useState<StaySearchFormFields | null>();
   //
-  const [currentTab, setCurrentTab] = useState<SearchTab>("Stays");
+  // const [currentTab, setCurrentTab] = useState<SearchTab>("Stays");
 
   //
   useOutsideAlerter(headerInnerRef, () => {
     setShowHeroSearch(null);
-    setCurrentTab("Stays");
+    // setCurrentTab("Stays");
   });
 
   let pathname = usePathname();
@@ -85,11 +85,11 @@ const Header3: FC<Header3Props> = ({ className = "" }) => {
         }`}
       >
         <div className={`w-full max-w-4xl mx-auto pb-6`}>
-          <HeroSearchFormSmall
+          {/* <HeroSearchFormSmall
             defaultFieldFocus={showHeroSearch || undefined}
             onTabChange={setCurrentTab}
             defaultTab={currentTab}
-          />
+          /> */}
         </div>
       </div>
     );
@@ -150,7 +150,7 @@ const Header3: FC<Header3Props> = ({ className = "" }) => {
       ></div>
       {showHeroSearch && <div id="nc-Header-3-anchor"></div>}
       <header ref={headerInnerRef} className={`sticky top-0 z-40 ${className}`}>
-        <div
+        {/* <div
           className={`bg-white dark:bg-neutral-900 absolute h-full inset-x-0 top-0 transition-transform will-change-[transform,opacity]
           ${showHeroSearch ? "duration-75" : ""} 
           ${
@@ -160,7 +160,7 @@ const Header3: FC<Header3Props> = ({ className = "" }) => {
                 : "scale-y-[3.4]"
               : ""
           }`}
-        ></div>
+        ></div> */}
         <div className="relative px-4 lg:container h-[88px] flex">
           <div className="flex-1 flex justify-between">
             {/* Logo (lg+) */}
@@ -181,12 +181,12 @@ const Header3: FC<Header3Props> = ({ className = "" }) => {
             {/* NAV */}
             <div className="hidden md:flex relative z-10 flex-1 justify-end text-neutral-700 dark:text-neutral-100">
               <div className=" flex space-x-1">
-                <Link
+                {/* <Link
                   href={"/add-listing/1"}
                   className="self-center hidden xl:inline-flex px-4 py-2 border border-neutral-300 hover:border-neutral-400 dark:border-neutral-700 rounded-full items-center text-sm text-gray-700 dark:text-neutral-300 font-medium focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75"
                 >
                   List your property
-                </Link>
+                </Link> */}
 
                 <NotifyDropdown />
                 <AvatarDropdown />

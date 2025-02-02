@@ -1,3 +1,5 @@
+"use client";
+
 import { Page, View, Document } from "@react-pdf/renderer";
 import { styles, spacing } from "@/components/Resume/ResumePDF/styles";
 import { ResumePDFProfile } from "@/components/Resume/ResumePDF/ResumePDFProfile";

@@ -15,31 +15,31 @@ interface SolutionItem {
 }
 
 const solutions: SolutionItem[] = [
-  {
-    name: "Stays",
-    description: "Stays rental description ",
-    href: "/listing-stay",
-    active: true,
-    icon: IconOne,
-  },
-  {
-    name: "Real Estate",
-    description: "Real Estate description",
-    href: "/listing-real-estate",
-    icon: IconTwo,
-  },
-  {
-    name: "Cars",
-    description: "Car rental description",
-    href: "/listing-car",
-    icon: IconThree,
-  },
-  {
-    name: "Experiences",
-    description: "Tour and experiences",
-    href: "/listing-experiences",
-    icon: IconFour,
-  },
+  // {
+  //   name: "Stays",
+  //   description: "Stays rental description ",
+  //   href: "/listing-stay",
+  //   active: true,
+  //   icon: IconOne,
+  // },
+  // {
+  //   name: "Real Estate",
+  //   description: "Real Estate description",
+  //   href: "/listing-real-estate",
+  //   icon: IconTwo,
+  // },
+  // {
+  //   name: "Cars",
+  //   description: "Car rental description",
+  //   href: "/listing-car",
+  //   icon: IconThree,
+  // },
+  // {
+  //   name: "Experiences",
+  //   description: "Tour and experiences",
+  //   href: "/listing-experiences",
+  //   icon: IconFour,
+  // },
 ];
 
 export default function DropdownTravelers() {

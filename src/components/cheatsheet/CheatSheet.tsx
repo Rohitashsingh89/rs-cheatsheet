@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useMemo } from "react";
 import { ResumePDF } from "@/components/cheatsheet/ResumePDF";
 import { Template } from "@/data/templateData";

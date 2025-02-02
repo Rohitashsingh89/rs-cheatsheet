@@ -7,8 +7,8 @@ import { XMarkIcon } from "@heroicons/react/24/solid";
 import ButtonSubmit from "./ButtonSubmit";
 import { useTimeoutFn } from "react-use";
 import StaySearchForm from "./(stay-search-form)/StaySearchForm";
-import CarsSearchForm from "./(car-search-form)/CarsSearchForm";
-import FlightSearchForm from "./(flight-search-form)/FlightSearchForm";
+// import CarsSearchForm from "./(car-search-form)/CarsSearchForm";
+// import FlightSearchForm from "./(flight-search-form)/FlightSearchForm";
 
 const HeroSearchForm2Mobile = () => {
   const [showModal, setShowModal] = useState(false);
@@ -123,7 +123,7 @@ const HeroSearchForm2Mobile = () => {
                               <StaySearchForm />
                             </div>
                           </Tab.Panel>
-                          <Tab.Panel>
+                          {/* <Tab.Panel>
                             <div className="transition-opacity animate-[myblur_0.4s_ease-in-out]">
                               <CarsSearchForm />
                             </div>
@@ -132,7 +132,7 @@ const HeroSearchForm2Mobile = () => {
                             <div className="transition-opacity animate-[myblur_0.4s_ease-in-out]">
                               <FlightSearchForm />
                             </div>
-                          </Tab.Panel>
+                          </Tab.Panel> */}
                         </Tab.Panels>
                       </div>
                       <div className="px-4 py-3 bg-white dark:bg-neutral-900 border-t border-neutral-200 dark:border-neutral-700 flex justify-between">

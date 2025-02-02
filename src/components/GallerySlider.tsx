@@ -27,7 +27,7 @@ export default function GallerySlider({
   imageClass = "",
   uniqueID = "uniqueID",
   galleryClass = "rounded-xl",
-  href = "/listing-stay-detail",
+  // href = "/listing-stay-detail",
   navigation = true,
 }: GallerySliderProps) {
   const [loaded, setLoaded] = useState(false);
@@ -72,7 +72,7 @@ export default function GallerySlider({
         {...handlers}
       >
         {/* Main image */}
-        <div className={`w-full overflow-hidden ${galleryClass}`}>
+        {/* <div className={`w-full overflow-hidden ${galleryClass}`}>
           <Link
             href={href}
             className={`relative flex items-center justify-center ${ratioClass}`}
@@ -98,7 +98,7 @@ export default function GallerySlider({
               </motion.div>
             </AnimatePresence>
           </Link>
-        </div>
+        </div> */}
 
         {/* Buttons + bottom nav bar */}
         <>

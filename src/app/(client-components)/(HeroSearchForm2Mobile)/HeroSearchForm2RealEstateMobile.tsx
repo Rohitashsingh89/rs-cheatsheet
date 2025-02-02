@@ -6,7 +6,7 @@ import { XMarkIcon } from "@heroicons/react/24/solid";
 import React, { Fragment, useState } from "react";
 import ButtonSubmit from "./ButtonSubmit";
 import { useTimeoutFn } from "react-use";
-import RealestateSearchForm from "./(real-estate-search-form)/RealestateSearchForm";
+// import RealestateSearchForm from "./(real-estate-search-form)/RealestateSearchForm";
 
 const HeroSearchForm2RealEstateMobile = () => {
   const [showModal, setShowModal] = useState(false);
@@ -107,7 +107,7 @@ const HeroSearchForm2RealEstateMobile = () => {
                       </Tab.List>
                       <div className="flex-1 pt-3 px-1.5 sm:px-4 flex overflow-hidden">
                         <Tab.Panels className="flex-1 overflow-y-auto hiddenScrollbar py-4">
-                          <Tab.Panel>
+                          {/* <Tab.Panel>
                             <div className="transition-opacity animate-[myblur_0.4s_ease-in-out]">
                               <RealestateSearchForm />
                             </div>
@@ -121,7 +121,7 @@ const HeroSearchForm2RealEstateMobile = () => {
                             <div className="transition-opacity animate-[myblur_0.4s_ease-in-out]">
                               <RealestateSearchForm />
                             </div>
-                          </Tab.Panel>
+                          </Tab.Panel> */}
                         </Tab.Panels>
                       </div>
                       <div className="px-4 py-3 bg-white dark:bg-neutral-900 border-t border-neutral-200 dark:border-neutral-700 flex justify-between">
